@@ -11,6 +11,7 @@ Beyond just shipping code, I believe in designing digital tools that solve real-
 ### 💡 Current Mission: *"Build a smarter bidding ecosystem."*
 
 💼 I'm building a full-featured **bidding platform** focused on bulk wholesale products, where sellers, users, and admins operate seamlessly. Real-time features, secure bidding, and intuitive design—crafted from scratch.
+
 📅 Schdulo — A dynamic scheduling web app aimed at optimizing time management, task assignment, and calendar coordination across teams.
 
 ---
@@ -31,17 +32,17 @@ I believe in mastering fundamentals before jumping on trends. Solid code > flash
   <img src="https://github-readme-stats.vercel.app/api?username=nithishkumarsaravanan&show_icons=true&theme=tokyonight&hide=prs&count_private=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumarsaravanan&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
 ### ✨ Let's Collaborate
 
 - 💬 Ping me for **web projects, open source collaboration, or freelance work**
-- 📧 Email: nithiishhh@gmail.com
-- 🔗 [LinkedIn]: https://www.linkedin.com/in/nithishkumar-s-93ab16259/
+- 📧 [Email](mailto:nithiishhh@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nithishkumar-s-93ab16259/)
+
+
 
 ---
 
