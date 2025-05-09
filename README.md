@@ -15,7 +15,7 @@ Currently, I'm focused on projects in the bidding, e-commerce, and wholesale dom
 
 💼 I'm building a full-featured **bidding platform** focused on bulk wholesale products, where sellers, users, and admins operate seamlessly. Real-time features, secure bidding, and intuitive design—crafted from scratch.
 
-📅 Schdulo — A dynamic scheduling web app aimed at optimizing time management, task assignment, and calendar coordination across teams.
+📅 Schedulo — A dynamic scheduling web app aimed at optimizing time management, task assignment, and calendar coordination across teams.
 
 ---
 
