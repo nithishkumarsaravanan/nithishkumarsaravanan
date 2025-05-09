@@ -25,7 +25,13 @@ Beyond just shipping code, I believe in designing digital tools that solve real-
 I believe in mastering fundamentals before jumping on trends. Solid code > flashy hacks.
 
 ---
+### 🌟 Highlights
 
+- 🚀 Built full-stack bidding platform from scratch  
+- ⏱ Developing Schdulo for seamless team scheduling  
+- 🧠 Exploring React, Node, and scalable app architecture  
+
+---
 ### 📈 Snapshot of My Code Life
 
 <p align="center">
